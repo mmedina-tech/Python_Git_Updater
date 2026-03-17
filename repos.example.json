@@ -1,0 +1,8 @@
+{
+  "repositories": [
+    "https://github.com/username/repo1.git",
+    "https://github.com/username/repo2.git",
+    "https://github.com/username/repo3.git",
+    "https://github.com/username/private-repo.git"
+  ]
+}
